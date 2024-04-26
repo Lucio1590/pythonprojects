@@ -1,6 +1,6 @@
 import pyautogui
 import time
-
+pyautogui.FAILSAFE = False
 times = 0
 while True:
   # Get the current mouse position
