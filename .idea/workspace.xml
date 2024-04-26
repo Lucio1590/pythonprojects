@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bfe6e30-d042-436a-aeaf-e6afefac4ebb" name="Changes" comment="removed">
-      <change afterPath="$PROJECT_DIR$/turtle3/dottedPainting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle3/spots.jpeg" afterDir="false" />
+    <list default="true" id="0bfe6e30-d042-436a-aeaf-e6afefac4ebb" name="Changes" comment="turtle creating dotted paintings">
+      <change afterPath="$PROJECT_DIR$/turtle5/turtleEtchASketch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +42,7 @@
   "keyToString": {
     "Python.dottedPainting.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.turtleEtchASketch.executor": "Run",
     "Python.turtleRandom.executor": "Run",
     "Python.turtleRandomCirclesPattern.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -139,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714142344689</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="turtle creating dotted paintings">
+      <option name="closed" value="true" />
+      <created>1714150950212</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714150950212</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,12 +174,14 @@
     <MESSAGE value="base commit" />
     <MESSAGE value="turtle random squared pattern" />
     <MESSAGE value="removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed" />
+    <MESSAGE value="turtle creating dotted paintings" />
+    <option name="LAST_COMMIT_MESSAGE" value="turtle creating dotted paintings" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1714142922865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$turtleRandom.coverage" NAME="turtleRandom Coverage Results" MODIFIED="1714139592287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle1" />
     <SUITE FILE_PATH="coverage/pythonProject$turtleRandomCirclesPattern.coverage" NAME="turtleRandomCirclesPattern Coverage Results" MODIFIED="1714140596061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle2" />
-    <SUITE FILE_PATH="coverage/pythonProject$dottedPainting.coverage" NAME="dottedPainting Coverage Results" MODIFIED="1714150712143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle3" />
+    <SUITE FILE_PATH="coverage/pythonProject$dottedPainting.coverage" NAME="dottedPainting Coverage Results" MODIFIED="1714150905382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle3" />
+    <SUITE FILE_PATH="coverage/pythonProject$turtleEtchASketch.coverage" NAME="turtleEtchASketch Coverage Results" MODIFIED="1714152648888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle5" />
   </component>
 </project>
